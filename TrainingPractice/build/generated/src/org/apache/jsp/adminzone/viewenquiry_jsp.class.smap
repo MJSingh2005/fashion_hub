@@ -1,0 +1,14 @@
+SMAP
+viewenquiry_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewenquiry.jsp
+adminzone/viewenquiry.jsp
++ 1 adminheader.jsp
+adminzone/adminheader.jsp
+*L
+5,11:49
+1#1,45:60
+15#0,4:105
+*E

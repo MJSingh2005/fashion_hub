@@ -1,0 +1,29 @@
+SMAP
+myprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 myprofile.jsp
+userzone/myprofile.jsp
++ 1 userheader.jsp
+userzone/userheader.jsp
+*L
+5,15:51
+19,17:66
+1#1,44:83
+35#0,10:127
+45,10:138
+54,3:148
+57:151,3
+58,2:154
+60:156,3
+61,2:159
+63:161,3
+64,2:164
+66:166,3
+67,5:169
+72,4:175
+75,3:179
+78,7:183
+84,30:190
+*E
